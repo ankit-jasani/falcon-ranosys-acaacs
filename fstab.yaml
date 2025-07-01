@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ankit-jasani/falcon-ranosys-acaacs/
+    type: markup
+
+folders:
+  /products/: /products/default
